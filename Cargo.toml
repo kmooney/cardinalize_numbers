@@ -1,6 +1,10 @@
 [package]
 name = "cardinalize_numbers"
+description = "A Rust library for converting numbers into their cardinal English text representation"
+license = "MIT"
 version = "0.1.0"
 edition = "2024"
+authors = ["Kevin Mooney <kmooney@gmail.com>"]
+repository = "https://github.com/kmooney/cardinalize_numbers"
 
 [dependencies]
